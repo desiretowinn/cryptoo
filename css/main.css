@@ -1,0 +1,36 @@
+header{
+    background: linear-gradient(227.07deg, #4E0062 0.43%, #220076 99.56%);
+}
+
+.table-section{
+    background-color: #11004e;
+}
+
+.table-graph{
+    margin: 25px 0px;
+    margin-right: 10px;
+}
+
+.table-icon{
+    margin-top: -3px;
+    margin-right: 4px;
+}
+
+.table-star{
+    margin-top: -4px;
+    margin-right: 3px;
+}
+
+.app{
+    background-color:#11004e;
+}
+
+.subscribe{
+    background-color: #11004e;
+    background-image: url(../images/shape.svg);
+    background-repeat: no-repeat;
+}
+
+footer{
+    background: linear-gradient(227.07deg, #4E0062 0.43%, #220076 99.56%);
+}
